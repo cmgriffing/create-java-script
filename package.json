@@ -1,6 +1,6 @@
 {
   "name": "create-java-script",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a Java Script in a flash",
   "main": "index.js",
   "bin": "index.js",
